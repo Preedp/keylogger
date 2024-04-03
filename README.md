@@ -29,6 +29,7 @@ python keylogger.py
 ## Contribution
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
 ## License
+This code is provided under the MIT License. You are free to use, modify, and distribute it according to the terms specified in the license.
 
 
 
