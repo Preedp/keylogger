@@ -1,4 +1,4 @@
-# keylogger
+# Keylogger
 This is a simple keylogger application implemented in Python using Tkinter for the GUI, filedialog for selecting file paths, and pynput for capturing keyboard events.
 ## Features
 ```
